@@ -2,7 +2,7 @@
   <div id="app">
     <div>gimme a sec on this...........</div>  
     <div class="header">I have some pieces cooking, here's what you can expect</div>
-    <ul>
+    <div>
       <div class="list">crypto + sports betting</div>
       <div class="list">"the ring of fire of tech," my prediction about a global movement</div>
       <div class="list">discography rankings</div>
@@ -12,7 +12,7 @@
       <div class="list">The value of an untrained eye - how considering user experience at the Air Force and Kanye's experimental ventures oddly taught me about this concept</div>
       <div class="list">My favourite fantasy basketball players ever</div>
       <div class="list">How the loss of competitive sports in my life unexpectedly impacted me</div>
-    </ul>
+    </div>
   </div>
 </template>
 
