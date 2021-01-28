@@ -12,6 +12,7 @@
       <div class="list">The value of an untrained eye - how considering user experience at the Air Force and Kanye's experimental ventures oddly taught me about this concept</div>
       <div class="list">My favourite fantasy basketball players ever</div>
       <div class="list">How the loss of competitive sports in my life unexpectedly impacted me</div>
+      <div class="list">Lessons on how service to the group forms the backbone of leadership</div>
     </div>
   </div>
 </template>
