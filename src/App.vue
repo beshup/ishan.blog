@@ -8,8 +8,8 @@
       <div class="list">discography rankings</div>
       <div class="list">Book of Five Rings review</div>
       <div class="list">Deep Dive into Atrocity Exhibition</div>
-      <div class="list">a pretty massive one piece analysis that eventually devolves into something entirely different</div>
-      <div class="list">The value of an untrained eye - how user experience at the Air Force and Kanye's experimental ventures oddly taught me about this concept</div>
+      <div class="list">a one piece analysis that eventually devolves into something entirely different</div>
+      <div class="list">The value of an untrained eye - how considering user experience at the Air Force and Kanye's experimental ventures oddly taught me about this concept</div>
       <div class="list">My favourite fantasy basketball players ever</div>
       <div class="list">How the loss of competitive sports in my life unexpectedly impacted me</div>
     </ul>
