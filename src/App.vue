@@ -5,12 +5,12 @@
     <div>
       <div class="list">crypto + sports betting</div>
       <div class="list">"the ring of fire of tech," my prediction about a global movement</div>
-      <div class="list">some discography rankings bundled together</div>
-      <div class="list">a martial artist and nepali's take on the book of five rings by miyamoto musashi</div>
+      <div class="list">discography rankings</div>
+      <div class="list">a martial artist/nepali's take on the book of five rings by miyamoto musashi</div>
       <div class="list">deep dive into atrocity exhibition</div>
       <div class="list">a one piece analysis that eventually devolves into something entirely different</div>
       <div class="list">the value of an untrained eye - how considering user experience at the air force and kanye's experimental ventures oddly taught me about this concept</div>
-      <div class="list">My favourite fantasy basketball players ever</div>
+      <div class="list">my favourite fantasy basketball players ever</div>
       <div class="list">how the loss of competitive sports in my life unexpectedly impacted me</div>
       <div class="list">lessons on service, leadership and their interconnectedness</div>
     </div>
