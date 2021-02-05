@@ -13,6 +13,7 @@
       <div class="list">my favourite fantasy basketball players ever</div>
       <div class="list">how the loss of competitive sports in my life unexpectedly impacted me</div>
       <div class="list">lessons on service, leadership and their interconnectedness</div>
+      <div class="list">learning to become opinionated in the creative process</div>
     </div>
   </div>
 </template>
