@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <div>gimme a sec on this...........</div>  
+    <div>gimme a sec on this, things are a little hectic right now...........</div>  
     <div class="header">I have some pieces cooking, here's what you can expect</div>
-    <div>
+    <div> 
       <div class="list">crypto + sports betting</div>
       <div class="list">"the tech ring of fire" my prediction about a global movement</div>
       <div class="list">discography rankings</div>
