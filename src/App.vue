@@ -6,7 +6,7 @@
       <div class="list">crypto + sports betting</div>
       <div class="list">"the tech ring of fire" my prediction about a global movement</div>
       <div class="list">discography rankings</div>
-      <div class="list">a martial artist + nepali take on the book of five rings by miyamoto musashi</div>
+      <div class="list">a martial artist + nepali take on the book of five rings</div>
       <div class="list">deep dive into atrocity exhibition</div>
       <div class="list">a one piece analysis that devolves into something entirely different</div>
       <div class="list">the value of an untrained eye - how considering user experience at the air force and kanye's experimental ventures oddly taught me about this concept</div>
