@@ -10,7 +10,7 @@
       <div class="list">lessons on service, leadership and their interconnectedness</div>
       <div class="list">a one piece analysis that devolves into something entirely different</div>
       <div class="list">the story of decentralization: knowledge -> services -> power and why the 3rd stage will completely alter work culture</div>
-      <div class="list">the value of an untrained eye - how considering user experience at the air force and kanye's experimental ventures oddly taught me about this concept</div>
+      <div class="list">value of the untrained eye</div>
       <div class="list">my favourite fantasy basketball players ever</div>
       <div class="list">how the loss of competitive sports in my life unexpectedly impacted me</div>
       <div class="list">learning to become opinionated in the creative process</div>
